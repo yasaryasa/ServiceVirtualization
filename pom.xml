@@ -99,7 +99,7 @@
 
                         <configuration>
                             <environmentVariables>
-                                <PUBLIC_URL>http://servicemock.yapikredi.com.tr</PUBLIC_URL>
+                                <PUBLIC_URL>http://servicemock.xxx.com.tr</PUBLIC_URL>
                                 <REACT_APP_ROUTER_BASE>/</REACT_APP_ROUTER_BASE>
                             </environmentVariables>
                         </configuration>
